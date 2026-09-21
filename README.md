@@ -14,7 +14,7 @@
 ```
 
 ### ⚡ Offensive Security Researcher & Security Tooling Engineer ⚡
-**Founder, Leviathan X** · Reverse Engineering · Attack Surface Management (ASM) · Vulnerability Research
+**Founder, Leviathan X** · Reverse Engineering · Attack Surface Management (Failed ASM Lol) · Vulnerability Research
 
 [![Location](https://img.shields.io/badge/Location-Kuala%20Lumpur-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/cyeezy08)
 [![Domain](https://img.shields.io/badge/Platform-leviathan.ac-00ffcc?style=for-the-badge&logo=firefox&logoColor=black)](https://offsec.leviathan.ac/)
