@@ -33,7 +33,7 @@
 > focus         : Firmware/Binary Reverse Engineering · Attack Surface Intelligence · Protocol Dissection
 > platform      : Leviathan Stack (High-Concurrency Go Engines + Passive Threat Analytics)
 > primary node  : Custom ARM64 Cluster (Raspberry Pi 5 tuned for 24/7 low-footprint recon)
-> philosophy    : "Zero Packets When Possible, Pure Intel Always. Explainable Scoring Over Black-Box Vibes."
+> philosophy    : "Just Doing What Iam Doing Lol"
 ```
 
 ---
@@ -72,9 +72,7 @@ Specialized offensive tools built in Go and Python designed for speed, low footp
 ```
 
 * 🚀 **[HostageLVX](https://github.com/cyeezy08/HostageLVX)** — Lightning-fast dangling-DNS & subdomain takeover engine in Go. CNAME verification against AWS S3, GitHub Pages, Azure, and 30+ cloud providers.
-* 🐺 **[FenrirLVX](https://github.com/cyeezy08/FenrirLVX)** — Low-footprint Go CLI for WordPress/CMS testing: plugin fingerprinting, local CVE correlation (`vuln_db.json`), and Shodan facet queries.
-* 🔍 **[SurfaceDiff](https://github.com/cyeezy08/surfacediff)** — Diff your attack surface, not your vanity metrics. Tracks perimeters and highlights newly exposed assets.
-* ⚖️ **[leviathan-core](https://github.com/cyeezy08/leviathan-core)** — The audited Leviathan risk kernel: $\min(100, \text{CVSS}\le40 + \text{EPSS}\le40 + \text{KEV }15 + \text{PoC }5)$ with full reason logging.
+* W **[FenrirLVX](https://github.com/cyeezy08/FenrirLVX)** — Low-footprint Go CLI for WordPress/CMS testing: plugin fingerprinting, local CVE correlation (`vuln_db.json`), and Shodan facet queries.
 * 🤖 **[agy-mcp](https://github.com/cyeezy08/agy-mcp)** — Path-traversal-hardened FastMCP server bridging AI agents with bug bounty orchestration tools.
 
 ---
