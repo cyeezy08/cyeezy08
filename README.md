@@ -13,7 +13,7 @@
                    ░                                                                   
 ```
 
-### ⚡ Offensive Security Researcher & Security Tooling Engineer ⚡
+###  Offsec Security Researcher & Security Tooling Engineer 
 **Founder, Leviathan X** · Reverse Engineering · Attack Surface Management (Failed ASM Lol) · Vulnerability Research
 
 [![Location](https://img.shields.io/badge/Location-Kuala%20Lumpur-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/cyeezy08)
@@ -42,7 +42,7 @@
 
 | Target / Advisory | Severity | Vulnerability Class | Impact & Scope |
 |---|---|---|---|
-| **[HiSilicon SoC DVR OEM Fleet](https://github.com/cyeezy08)** | **CVSS 9.8 (Critical)** | CWE-494 / CWE-78 · CWE-321 | **0-Day Root RCE**: Unsigned firmware boot upgrade hijack (`tar -zxvf`) + hardcoded AES-256 keys (`dvr1234567`). **28,006 internet-facing devices** mapped globally via Shodan hash `1901075043`. Coordinated via CERT/CC. |
+| **[HiSilicon SoC DVR OEM Fleet](https://github.com/cyeezy08)** | **CVSS 9.8 (Critical)** | CWE-494 / CWE-78 · CWE-321 | **0-Day Root RCE**: Unsigned firmware boot upgrade hijack disclosure soon (`tar -zxvf`) + hardcoded AES-256 keys (`dvr1234567`). **28,006 internet-facing devices** mapped globally via Shodan hash `1901075043`. Coordinated via CERT/CC. |
 | **[`decompress-CWE-59`](https://github.com/cyeezy08/decompress-CWE-59-PoC)** | **High** | CWE-59 (Arbitrary File Write) | Symlink escape and hardlink write bypass in `decompress@4.2.1` (**17.6M weekly downloads**). |
 | **[`Kimai-CVE-2026-49865`](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)** | **High** | CWE-287 (Authentication Bypass) | Default `APP_SECRET` authentication bypass enabling administrative session forge in Kimai instances $\le 2.57.0$. |
 | **[`Tianwen-ERP-Upload`](https://github.com/cyeezy08/Tianwen-ERP-Upload-PoC)** | **Critical** | CWE-434 (Unrestricted File Upload) | Unauthenticated arbitrary file upload in Tianwen Property Management ERP; authored benign reproducible TUI PoC. |
@@ -103,6 +103,6 @@ Hardware Lab     :: ARM64 SoC Architecture (Raspberry Pi 5 Node, 65k ulimit, tun
  Pure intelligence correlation against declared assets. Triage is not a scan."
 ```
 
-**[🌐 offsec.leviathan.ac](https://offsec.leviathan.ac)** · **[🐦 @cpioh8bm](https://x.com/cpioh8bm)** · **[📧 chinyeezy08@gmail.com](mailto:chinyeezy08@gmail.com)**
+**[🌐 offsec.leviathan.ac](https://leviathan.ac)** · **[🐦 @cpioh8bm](https://x.com/cpioh8bm)** · **[📧 chinyeezy08@gmail.com](mailto:chinyeezy08@gmail.com)**
 
 </div>
