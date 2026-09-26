@@ -17,8 +17,7 @@
 **Founder, Leviathan X** · Reverse Engineering · Attack Surface Management (Failed ASM Lol) · Vulnerability Research
 
 [![Location](https://img.shields.io/badge/Location-Kuala%20Lumpur-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/cyeezy08)
-[![Domain](https://img.shields.io/badge/Platform-leviathan.ac-00ffcc?style=for-the-badge&logo=firefox&logoColor=black)](https://offsec.leviathan.ac/)
-[![X/Twitter](https://img.shields.io/badge/Twitter-%40cpioh8bm-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cpioh8bm)
+[![Domain](https://img.shields.io/badge/Platform-leviathan.ac-00ffcc?style=for-the-badge&logo=firefox&logoColor=black)]
 [![Email](https://img.shields.io/badge/Contact-chinyeezy08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinyeezy08@gmail.com)
 
 </div>
@@ -102,7 +101,6 @@ Hardware Lab     :: ARM64 SoC Architecture (Raspberry Pi 5 Node, 65k ulimit, tun
 "The ASN-scale lane needs scanning infrastructure; this lane needs none.
  Pure intelligence correlation against declared assets. Triage is not a scan."
 ```
-
-**[🌐 offsec.leviathan.ac](https://leviathan.ac)** · **[🐦 @cpioh8bm](https://x.com/cpioh8bm)** · **[📧 chinyeezy08@gmail.com](mailto:chinyeezy08@gmail.com)**
+ **[📧 chinyeezy08@gmail.com](mailto:chinyeezy08@gmail.com)**
 
 </div>
