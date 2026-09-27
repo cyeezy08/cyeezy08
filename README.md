@@ -27,8 +27,8 @@
 ### 💻 `$ cat /etc/motd`
 
 ```bash
-> whoami        : Chin Yi Zhe (@cyeezy08)
-> role          : Offensive Security Researcher · Systems & Tools Developer
+> whoami        : (@cyeezy08)
+> role          : Offensive Security Researcher · Exploit Developer
 > focus         : Firmware/Binary Reverse Engineering · Attack Surface Intelligence · Protocol Dissection
 > platform      : Leviathan Stack (High-Concurrency Go Engines + Passive Threat Analytics)
 > primary node  : Custom ARM64 Cluster (Raspberry Pi 5 tuned for 24/7 low-footprint recon)
@@ -41,7 +41,6 @@
 
 | Target / Advisory | Severity | Vulnerability Class | Impact & Scope |
 |---|---|---|---|
-| **[HiSilicon SoC DVR OEM Fleet](https://github.com/cyeezy08)** | **CVSS 9.8 (Critical)** | CWE-494 / CWE-78 · CWE-321 | **0-Day Root RCE**: Unsigned firmware boot upgrade hijack disclosure soon (`tar -zxvf`) + hardcoded AES-256 keys (`dvr1234567`). **28,006 internet-facing devices** mapped globally via Shodan hash `1901075043`. Coordinated via CERT/CC. |
 | **[`decompress-CWE-59`](https://github.com/cyeezy08/decompress-CWE-59-PoC)** | **High** | CWE-59 (Arbitrary File Write) | Symlink escape and hardlink write bypass in `decompress@4.2.1` (**17.6M weekly downloads**). |
 | **[`Kimai-CVE-2026-49865`](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)** | **High** | CWE-287 (Authentication Bypass) | Default `APP_SECRET` authentication bypass enabling administrative session forge in Kimai instances $\le 2.57.0$. |
 | **[`Tianwen-ERP-Upload`](https://github.com/cyeezy08/Tianwen-ERP-Upload-PoC)** | **Critical** | CWE-434 (Unrestricted File Upload) | Unauthenticated arbitrary file upload in Tianwen Property Management ERP; authored benign reproducible TUI PoC. |
