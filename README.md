@@ -15,7 +15,6 @@ Vulnerability Research · Firmware & Reverse Engineering · Attack Surface Engin
 > focus         : Vulnerability Research · Embedded Protocol Analysis · Attack Surface Delta Tracking
 > platform      : Leviathan Stack (High-Throughput Go Engines + Zero-Dependency Python)
 > node          : Raspberry Pi 5 (ARM64 Recon & Research Engine)
-> doctrine      : "Zero Packets When Possible, Pure Intel Always."
 ```
 
 ---
