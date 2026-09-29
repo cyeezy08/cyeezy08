@@ -28,11 +28,11 @@ I'm a security researcher based in Kuala Lumpur. I build high-concurrency offens
 
 | Target / Advisory | Severity | Vulnerability Class | Impact & Scope |
 |---|---|---|---|
-| **[HiSilicon SoC DVR OEM Fleet](https://github.com/leviathan-offsec)** | **CVSS 9.8 (Critical)** | CWE-494 / CWE-78 · CWE-321 | **0-Day Root RCE**: Unsigned firmware boot upgrade hijack (`tar -zxvf`) + hardcoded AES-256 keys (`dvr1234567`). **28,006 internet-facing devices** mapped globally via Shodan hash `1901075043`. Coordinated via CERT/CC. |
-| **[`decompress-CWE-59`](https://github.com/leviathan-offsec/decompress-CWE-59-PoC)** | **High** | CWE-59 (Arbitrary File Write) | Symlink escape and hardlink write bypass in `decompress@4.2.1` (**17.6M weekly downloads**). |
-| **[`Kimai-CVE-2026-49865`](https://github.com/leviathan-offsec/Kimai-CVE-2026-49865-POC)** | **High** | CWE-287 (Authentication Bypass) | Default `APP_SECRET` authentication bypass enabling administrative session forge in Kimai instances $\le 2.57.0$. |
-| **[`Tianwen-ERP-Upload`](https://github.com/leviathan-offsec/Tianwen-ERP-Upload-PoC)** | **Critical** | CWE-434 (Unrestricted File Upload) | Unauthenticated arbitrary file upload in Tianwen Property Management ERP; authored benign reproducible TUI PoC. |
-| **[`DoS-Braces-3.03`](https://github.com/leviathan-offsec/DoS-Braces-3.03)** | **Medium** | CWE-400 (Denial of Service) | Incomplete patch analysis of CVE-2024-4068 via comma-separated brace expansion. |
+| **[HiSilicon SoC DVR OEM Fleet](https://github.com/cyeezy08)** | **CVSS 9.8 (Critical)** | CWE-494 / CWE-78 · CWE-321 | **0-Day Root RCE**: Unsigned firmware boot upgrade hijack (`tar -zxvf`) + hardcoded AES-256 keys (`dvr1234567`). **28,006 internet-facing devices** mapped globally via Shodan hash `1901075043`. Coordinated via CERT/CC. |
+| **[`decompress-CWE-59`](https://github.com/cyeezy08/decompress-CWE-59-PoC)** | **High** | CWE-59 (Arbitrary File Write) | Symlink escape and hardlink write bypass in `decompress@4.2.1` (**17.6M weekly downloads**). |
+| **[`Kimai-CVE-2026-49865`](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)** | **High** | CWE-287 (Authentication Bypass) | Default `APP_SECRET` authentication bypass enabling administrative session forge in Kimai instances $\le 2.57.0$. |
+| **[`Tianwen-ERP-Upload`](https://github.com/cyeezy08/Tianwen-ERP-Upload-PoC)** | **Critical** | CWE-434 (Unrestricted File Upload) | Unauthenticated arbitrary file upload in Tianwen Property Management ERP; authored benign reproducible TUI PoC. |
+| **[`DoS-Braces-3.03`](https://github.com/cyeezy08/DoS-Braces-3.03)** | **Medium** | CWE-400 (Denial of Service) | Incomplete patch analysis of CVE-2024-4068 via comma-separated brace expansion. |
 
 ---
 
