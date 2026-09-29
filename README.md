@@ -14,8 +14,8 @@ Vulnerability Research · Firmware & Reverse Engineering · Attack Surface Engin
 > whoami        : @cyeezy08
 > focus         : Vulnerability Research · Embedded Protocol Analysis · Attack Surface Delta Tracking
 > platform      : Leviathan Stack (Concurrent Go Utilities + Standard-Library Python Tools)
-> node          : Custom ARM64 Recon Cluster (Raspberry Pi 5)
-> doctrine      : "Zero Packets When Possible, Pure Intel Always. Explainable Scoring Over Black-Box Vibes."
+> node          : 90% of my sec research goes here (Raspberry Pi 5)
+> doctrine      : "I"
 ```
 
 ---
@@ -68,9 +68,9 @@ Production security tools built in Go and Python, developed under [`@leviathan-o
 
 ### Technical Capabilities
 * **Languages:** Go, Python (AsyncIO, FastAPI), C/C++, Bash, SQL
-* **Reverse Engineering:** Ghidra, GDB, radare2, binwalk, Linux ARM64/x86_64
+* **Reverse Engineering:** Ghidra, GDB, radare2, binwalk, Linux ARM64/x86_64(On codespaces cant afford more tbh),
 * **Security & Intel:** Shodan API, CISA KEV, FIRST EPSS, DNS Protocol Analysis, Supply-Chain Auditing
 
 ---
 
-*"Build. Break. Understand. Secure."*
+*"I am very tired."*
