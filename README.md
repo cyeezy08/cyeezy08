@@ -37,7 +37,7 @@ Production security tools built in Go and Python, developed under [`@leviathan-o
 
 ```text
                   ┌──────────────────────────────────────────────┐
-                  │                 LEVIATHAN X                  │
+                  │               LEVIATHAN OFFSEC               │
                   └──────┬───────────────────────┬───────────────┘
                          │                       │
            ┌─────────────▼─────────────┐   ┌─────▼─────────────────────────┐
@@ -52,11 +52,11 @@ Production security tools built in Go and Python, developed under [`@leviathan-o
            └───────────────────────────┘   └───────────────────────────────┘
 ```
 
-* **[HostageLVX](https://github.com/leviathan-offsec/HostageLVX)** — High-speed dangling DNS and subdomain takeover engine in Go. CNAME verification against 30+ cloud and edge providers.
-* **[FenrirLVX](https://github.com/leviathan-offsec/FenrirLVX)** — Low-footprint Go CLI for WordPress/CMS testing, local CVE correlation (`vuln_db.json`), and Shodan facet queries.
-* **[surfacediff](https://github.com/leviathan-offsec/surfacediff)** — Attack surface snapshotting and field-by-field delta diffing utility. Standard library only, zero dependencies.
-* **[leviathan-core](https://github.com/leviathan-offsec/leviathan-core)** — Contract-enforced risk scoring kernel correlating CVSS, EPSS, CISA KEV, and PoC availability.
-* **[agy-mcp](https://github.com/leviathan-offsec/agy-mcp)** — Path-traversal-hardened FastMCP server bridging autonomous AI coding assistants with security tooling.
+* **[HostageLVX](https://github.com/leviathan-offsec/HostageLVX)** · High-speed dangling DNS and subdomain takeover engine in Go. CNAME verification against 30+ cloud and edge providers.
+* **[FenrirLVX](https://github.com/leviathan-offsec/FenrirLVX)** · High-speed Go CLI for WordPress/CMS attack surface mapping and offline CVE correlation.
+* **[surfacediff](https://github.com/leviathan-offsec/surfacediff)** · Attack surface snapshotting and field-by-field delta diffing utility. Standard library only, zero dependencies.
+* **[leviathan-core](https://github.com/leviathan-offsec/leviathan-core)** · Contract-enforced risk scoring kernel correlating CVSS, EPSS, CISA KEV, and PoC availability.
+* **[agy-mcp](https://github.com/leviathan-offsec/agy-mcp)** · Hardened Model Context Protocol (FastMCP) server bridging autonomous AI coding assistants with recon pipelines.
 
 ---
 
