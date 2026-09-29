@@ -70,7 +70,3 @@ Production security tools built in Go and Python, developed under [`@leviathan-o
 * **Languages:** Go, Python (AsyncIO, FastAPI), C/C++, Bash, SQL
 * **Reverse Engineering:** Ghidra, GDB, radare2, binwalk, ARM32 / ARM64 / x86_64
 * **Security & Intel:** Shodan API, CISA KEV, FIRST EPSS, DNS Protocol Analysis, Supply-Chain Auditing
-
----
-
-*"Build. Break. Understand. Secure."*
