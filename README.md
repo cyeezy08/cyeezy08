@@ -52,11 +52,16 @@ Built and maintained under [Leviathan OffSec](https://github.com/leviathan-offse
 
 | Tool | Language | What it does |
 |---|---|---|
-| [HostageLVX](https://github.com/leviathan-offsec/HostageLVX) | Go | Dangling DNS and subdomain takeover detection, CNAME verified against 30+ cloud and edge providers |
+| [HostageLVX](https://github.com/leviathan-offsec/HostageLVX) | Go | Dangling DNS and subdomain takeover detection, CNAME verified against 21 cloud services across 28 patterns |
 | [FenrirLVX](https://github.com/leviathan-offsec/FenrirLVX) | Go | WordPress and CMS attack surface mapping, plugin fingerprinting, offline CVE correlation |
 | [leviathan-core](https://github.com/leviathan-offsec/leviathan-core) | Python | Risk scoring correlating CVSS, FIRST EPSS, CISA KEV and PoC availability |
-| [surfacediff](https://github.com/leviathan-offsec/surfacediff) | Python | Content-addressed attack surface snapshots and deterministic field diffs. Standard library only |
-| [agy-mcp](https://github.com/leviathan-offsec/agy-mcp) | Python | Hardened Model Context Protocol server for AI coding assistants |
+| [surfacediff](https://github.com/leviathan-offsec/surfacediff) | Python | Content-addressed attack surface snapshots and deterministic field diffs. Zero dependencies |
+
+Tools under active development, not yet released:
+
+| Project | Language | What it is |
+|---|---|---|
+| agy-mcp | Python | Hardened Model Context Protocol server for AI coding assistants. Repository not public yet |
 
 ---
 
