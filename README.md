@@ -19,12 +19,29 @@ Vulnerability Research · Firmware & Reverse Engineering · Attack Surface Engin
 
 ---
 
+### Firmware Research
+
+**[80 Days Reverse Engineering an IoT DVR](https://leviathan.ac/posts/80-days-reversing-iot-dvr.html)**
+— HiSilicon ARM32 surveillance firmware, 28,006 internet-facing units. Three findings
+proven at the binary level: a protocol auth bypass from hardcoded AES-256 keys, an
+unsigned root upgrade chain, and a command injection behind a two-character blocklist
+(`` ` `` and `$` filtered, `;` `|` `>` not). Includes the disassembly and a Unicorn
+emulation transcript. No bounty; long-form post-mortem.
+
+**Dahua IPC firmware** — command injection primitive in `libpdi.so`
+(`NetSetDNSHostName` → `system("hostname %s")`), confirmed in two product classes
+across two library builds. Reachability from a network handler is **not** established
+and is not claimed.
+
+---
+
 ### Public Vulnerability Research & Advisories
 
 | Advisory / Target | Severity | Class | Scope & Impact |
 |---|---|---|---|
-| **[`decompress-CWE-59`](https://github.com/cyeezy08/decompress-CWE-59-PoC)** | High | CWE-59 (Arbitrary File Write) | Symlink escape and hardlink write bypass in `decompress@4.2.1` (**17.6M weekly downloads**). |
-| **[`Kimai-CVE-2026-49865`](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)** | High | CWE-287 (Authentication Bypass) | Default `APP_SECRET` authentication bypass enabling administrative session forge in Kimai instances $\le 2.57.0$. |
+| **[`decompress-CWE-59`](https://github.com/cyeezy08/decompress-CWE-59-PoC)** | Medium | CWE-59 (Arbitrary File Write) | Symlink escape and hardlink write bypass in the PyPI `decompress` package (0.0.5, unpatched). Low install volume — roughly 46 downloads/week. |
+| **[`WordPress_Exploit_Directory`](https://github.com/cyeezy08/WordPress_Exploit_Directory)** | Critical | CWE-434 (Unrestricted File Upload) | Unauthenticated arbitrary file upload in Elementor Pro ≤ 4.2.1, `CVE-2026-32475` (CVSS 9.0). Fixed in 4.2.2. |
+| **[`Kimai-CVE-2026-49865`](https://github.com/cyeezy08/Kimai-CVE-2026-49865-POC)** | High | CWE-287 (Authentication Bypass) | Default `APP_SECRET` authentication bypass enabling administrative session forge in Kimai instances up to 2.57.0. |
 | **[`Tianwen-ERP-Upload`](https://github.com/cyeezy08/Tianwen-ERP-Upload-PoC)** | Critical | CWE-434 (Unrestricted File Upload) | Unauthenticated arbitrary file upload in Tianwen Property Management ERP; paired with terminal demo PoC. |
 | **[`DoS-Braces-3.03`](https://github.com/cyeezy08/DoS-Braces-3.03)** | Medium | CWE-400 (Denial of Service) | Incomplete patch analysis of CVE-2024-4068 via comma-separated brace expansion. |
 
