@@ -80,11 +80,11 @@ For firmware work, the order that actually mattered:
 
 ### Background
 
-Four-plus years of OSINT on closed cybercrime forums, initial access brokers, and
-one-day exploit trade flows, turned into passive attack surface rules.
+OSINT on closed cybercrime forums, initial access brokers, and one-day exploit
+trade flows, turned into passive attack surface rules.
 
-Skills: Go, Python, C, Bash, SQL. Tools: Ghidra, radare2, binwalk, Unicorn, GDB, across
-ARM32, ARM64 and x86_64.
+Skills: Go, Python, C, Bash, SQL. Tools: Ghidra, radare2, binwalk, Unicorn, GDB,
+across ARM32, ARM64 and x86_64.
 
 ---
 
