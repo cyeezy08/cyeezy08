@@ -41,16 +41,6 @@ Production security tools in Go and Python. See [@leviathan-offsec](https://gith
 - **[FenrirLVX](https://github.com/leviathan-offsec/FenrirLVX)** – WordPress/CMS attack surface mapping with offline CVE correlation.
 - **[surfacediff](https://github.com/leviathan-offsec/surfacediff)** – Asset snapshot & perimeter delta diffing. Stdlib only, zero dependencies.
 
-**Risk Intelligence**
-- **[leviathan-core](https://github.com/leviathan-offsec/leviathan-core)** – CVSS/EPSS/KEV risk scoring kernel for vulnerability prioritization.
-- **[leviathan-triage](https://github.com/leviathan-offsec/leviathan-triage)** – CISA KEV feed triaged against your infrastructure stack.
-- **[agy-mcp](https://github.com/leviathan-offsec/agy-mcp)** – Model Context Protocol (FastMCP) bridge for AI-assisted recon pipelines.
-
-**Content & Automation**
-- **[huginn-lvx](https://github.com/leviathan-offsec/huginn-lvx)** – GitHub-to-X content autopilot. Own account, dry-run by default.
-- **[vuln-research](https://github.com/leviathan-offsec/vuln-research)** – IoT firmware extraction, Ghidra triage scripts, CVE PoCs.
-
----
 
 ### Skills & Toolchain
 
