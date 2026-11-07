@@ -2,47 +2,40 @@
 
 # cyeezy08
 
-### Defensive Security · Offensive Security · Open-Source Tooling
+**Security tooling · Defensive security · Authorized offensive research**
 
-Building practical tools for authorized security research, attack-surface visibility, and safer software.
+I build open-source tools for understanding exposure, validating security controls, and making security workflows more repeatable.
 
-![Profile views](https://komarev.com/ghpvc/?username=cyeezy08&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile views](https://komarev.com/ghpvc/?username=cyeezy08&label=Profile%20views&color=2f6feb&style=flat)](https://github.com/cyeezy08)
+[![GitHub followers](https://img.shields.io/github/followers/cyeezy08?label=Followers&style=flat&color=2f6feb)](https://github.com/cyeezy08?tab=followers)
 
 </div>
 
 ## About
 
-I’m an independent security tooling builder interested in the overlap between **defensive security** and **authorized offensive security**. I create tools and experiments that help security teams and developers understand exposure, validate defenses, and make security work more repeatable.
+I work across defensive security and **authorized** offensive security, with a focus on practical tooling, clear documentation, and responsible research. I test only systems I own or have explicit permission to assess, and support responsible disclosure.
 
-All security testing should be conducted only on systems you own or have explicit permission to assess. I value responsible disclosure, clear documentation, and honest reporting of project limitations.
-
-## Featured work
+## Selected projects
 
 - **[SurfaceDiff](https://github.com/cyeezy08/surfacediff)** — Content-addressed snapshots and change detection for external attack surfaces.
 - **[HostageLVX](https://github.com/cyeezy08/HostageLVX)** — DNS and subdomain-takeover validation tooling.
-- **[FenrirLVX](https://github.com/cyeezy08/FenrirLVX)** — WordPress attack-surface mapping and offline vulnerability correlation.
-- **[LLM-bullshit](https://github.com/cyeezy08/LLM-bullshit)** — A local benchmark harness for security-review agents and remediation workflows.
+- **[FenrirLVX](https://github.com/cyeezy08/FenrirLVX)** — WordPress attack-surface mapping and offline CVE correlation.
+- **[LLM security-review benchmark](https://github.com/cyeezy08/LLM-bullshit)** — A local harness for evaluating security-review agents and remediation workflows.
 
-## Focus areas
+## Areas of interest
 
 `Application Security` · `Attack Surface Management` · `Security Automation` · `Responsible Disclosure` · `Go` · `Python`
 
-## Collaboration
+## Partnerships & collaboration
 
-Open to thoughtful conversations with security, password-management, and developer-tool teams—including **1Password**—about open-source projects, product feedback, educational content, and responsible security research. This is an expression of interest, not a claim of affiliation or endorsement.
+Open to professional conversations with security and developer-tool teams—including password-management companies such as **1Password**—about open-source tooling, product feedback, educational content, and responsible security research. This expresses interest only; it does not imply an existing partnership or endorsement.
 
-For professional inquiries, contact me through [GitHub](https://github.com/cyeezy08).
-
-## GitHub
+For inquiries, please contact me through [GitHub](https://github.com/cyeezy08).
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyeezy08&show_icons=true&hide_title=true&include_all_commits=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyeezy08&show_icons=true&hide_title=true&theme=tokyonight)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyeezy08&layout=compact&theme=tokyonight)
 
 </div>
-
----
-
-*Independent work. Authorized testing only. Built with curiosity and care.*
