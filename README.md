@@ -1,28 +1,48 @@
-# Hi, I'm cyeezy08
+<div align="center">
 
-**Independent security tooling builder focused on practical, responsible security research.**
+# cyeezy08
 
-I build open-source tools and experiments around attack-surface visibility, security automation, and AI-assisted code review. My goal is to make security work clearer, more repeatable, and useful to the people who build and protect software.
+### Defensive Security · Offensive Security · Open-Source Tooling
 
-## What I work on
+Building practical tools for authorized security research, attack-surface visibility, and safer software.
 
-- **Security tooling:** Reconnaissance and exposure-monitoring utilities, including [SurfaceDiff](https://github.com/cyeezy08/surfacediff), [HostageLVX](https://github.com/cyeezy08/HostageLVX), and [FenrirLVX](https://github.com/cyeezy08/FenrirLVX).
-- **AI and secure development:** Experiments for evaluating security-review agents and remediation workflows in [LLM-bullshit](https://github.com/cyeezy08/LLM-bullshit).
-- **Accessible distribution:** Packaging and developer workflows for security tools.
+![Profile views](https://komarev.com/ghpvc/?username=cyeezy08&label=Profile%20views&color=0e75b6&style=flat)
 
-## Principles
+</div>
 
-- Work only on systems I own or have explicit permission to assess.
-- Favor responsible disclosure, clear documentation, and reproducible results.
-- Build with practical developer and security-team needs in mind.
-- Be transparent about project maturity, limitations, and results.
+## About
 
-## Collaboration & partnerships
+I’m an independent security tooling builder interested in the overlap between **defensive security** and **authorized offensive security**. I create tools and experiments that help security teams and developers understand exposure, validate defenses, and make security work more repeatable.
 
-I'm open to thoughtful collaborations with security, password-management, and developer-tool teams—including **1Password**—on open-source tooling, educational content, product feedback, and responsible security research. Any partnership or product relationship would be discussed transparently; mentioning a company here does not imply endorsement or an existing affiliation.
+All security testing should be conducted only on systems you own or have explicit permission to assess. I value responsible disclosure, clear documentation, and honest reporting of project limitations.
 
-For professional or partnership inquiries, please reach out through [GitHub](https://github.com/cyeezy08) and include a short note about your goals, timeline, and how you'd like to work together.
+## Featured work
 
-## Explore my work
+- **[SurfaceDiff](https://github.com/cyeezy08/surfacediff)** — Content-addressed snapshots and change detection for external attack surfaces.
+- **[HostageLVX](https://github.com/cyeezy08/HostageLVX)** — DNS and subdomain-takeover validation tooling.
+- **[FenrirLVX](https://github.com/cyeezy08/FenrirLVX)** — WordPress attack-surface mapping and offline vulnerability correlation.
+- **[LLM-bullshit](https://github.com/cyeezy08/LLM-bullshit)** — A local benchmark harness for security-review agents and remediation workflows.
 
-Browse my [repositories](https://github.com/cyeezy08?tab=repositories) to see current projects, documentation, and ways to get involved. I welcome constructive feedback, issues, and contributions.
+## Focus areas
+
+`Application Security` · `Attack Surface Management` · `Security Automation` · `Responsible Disclosure` · `Go` · `Python`
+
+## Collaboration
+
+Open to thoughtful conversations with security, password-management, and developer-tool teams—including **1Password**—about open-source projects, product feedback, educational content, and responsible security research. This is an expression of interest, not a claim of affiliation or endorsement.
+
+For professional inquiries, contact me through [GitHub](https://github.com/cyeezy08).
+
+## GitHub
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cyeezy08&show_icons=true&hide_title=true&include_all_commits=true&theme=tokyonight)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyeezy08&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+*Independent work. Authorized testing only. Built with curiosity and care.*
