@@ -16,7 +16,7 @@ The tools are not bulk target discovery services. Use only with permission for n
 
 ## Consistent visual identity
 
-All flagship repositories use a common **Leviathan X** banner in their own `assets/leviathan-x-header.svg` files and keep meaningful screenshots or real CLI recordings when available.
+The three repositories share the **Leviathan X** tool family name but use distinct terminal identities. Each has an offline demo workflow that captures real CLI output into a downloadable SVG and raw text artifact. FenrirLVX additionally retains its original recorded TUI GIF. Captures are not presented as live scan results.
 
 - Palette: near-black `#07090E`, mint `#00FFCC`, cyan `#38BDF8`, pale slate.
 - Density: technical, readable, restrained. Avoid large decorative dashboards and fake metrics.
