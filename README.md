@@ -1,14 +1,6 @@
 <!-- cyeezy08 GitHub profile. Workflow badges come from GitHub Actions. -->
 
-<div align="center">
 
-<img src="assets/profile-header.svg" alt="cyeezy08: security engineering with evidence attached; collect, validate, correlate, explain" width="100%" />
-
-# cyeezy08
-
-### Evidence-first security engineering · Go · Python · Linux
-
-**I build security tools that show the evidence, coverage, and limitations behind every result.**
 
 [Projects](#selected-projects) · [Leviathan X tooling](TOOLING.md) · [Engineering principles](#how-i-build) · [Collaboration](#collaboration)
 
