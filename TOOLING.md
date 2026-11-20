@@ -70,6 +70,6 @@ Those three give reviewers a coherent evidence-first story. The remaining profil
 
 ## Collaboration
 
-For platform design-partner conversations, see [the partnership brief](PARTNERSHIPS.md) after it is approved and merged, or use **admin@leviathanx.org**.
+For platform design-partner conversations, contact **admin@leviathanx.org**. A separate partnership brief is being reviewed and is not yet part of the published profile.
 
 This page describes the public tooling strategy. It does not assert production deployment, approved provider partnerships, or commercial availability.
