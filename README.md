@@ -51,9 +51,11 @@ The platform is distinct from the individual CLI tools above. Its full customer-
 
 > Research, code and historical datasets are not a substitute for validated production telemetry.
 
-## Collaboration
+## Partnerships and collaboration
 
-I welcome thoughtful bug reports, reproducible test cases, documentation improvements, and research discussions through the relevant repository's [issues](https://github.com/cyeezy08?tab=repositories).
+I'm developing Leviathan X as an evidence-first intelligence workbench and welcome discussions with security teams, data providers, and authorized research programs. **[Read the partnership and design-partner brief](PARTNERSHIPS.md)** for the proposed pilot scope, technical principles, and current limitations.
+
+I also welcome reproducible bug reports, documentation improvements, and engineering discussions through the relevant repository's [issues](https://github.com/cyeezy08?tab=repositories).
 
 For Leviathan X business inquiries: **admin@leviathanx.org**.
 
