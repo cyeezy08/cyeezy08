@@ -10,7 +10,7 @@
 
 **I build security tools that show the evidence, coverage, and limitations behind every result.**
 
-[Projects](#selected-projects) · [Engineering principles](#how-i-build) · [Leviathan X](#leviathan-x) · [Collaboration](#collaboration)
+[Projects](#selected-projects) · [Leviathan X tooling](TOOLING.md) · [Engineering principles](#how-i-build) · [Collaboration](#collaboration)
 
 </div>
 
@@ -44,6 +44,8 @@ These badges reflect GitHub Actions when available; they are not manually assign
 **Working stack:** Go, Python, Linux, HTTP/API engineering, software supply-chain analysis, automated testing and security data normalization.
 
 ## Leviathan X
+
+The [**Leviathan X tooling suite**](TOOLING.md) connects the three public CLI projects through a shared evidence-first design, while keeping each repository independently usable.
 
 **[Leviathan X](https://leviathanx.org)** is an independently developed exposure-intelligence platform in progress. Its intended workflow brings together verified public vulnerability feeds, source provenance, authorized asset inventory, explainable correlation and historical change tracking.
 
